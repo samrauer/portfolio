@@ -1,4 +1,4 @@
-# portfolio
+# Personal Portfolio Source Files
 
 ## Project setup
 ```
@@ -13,6 +13,11 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### Builds for production and pushes to gh-pages
+```
+./deploy.sh
 ```
 
 ### Lints and fixes files
