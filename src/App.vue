@@ -1,6 +1,6 @@
 <template>
   <q-layout view="lhr lpr lfr">
-    <q-header elevated>
+    <q-header elevated reveal>
       <q-tabs align="justify">
         <q-route-tab to="/">Home</q-route-tab>
         <q-route-tab to="/about">About</q-route-tab>
